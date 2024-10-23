@@ -1,4 +1,4 @@
-# @gv-sh/math-utils
+# @mathscapes/math-utils
 
 [![Node.js Package](https://github.com/gv-sh/math-utils/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/math-utils/actions/workflows/npm-publish.yml)
 
@@ -17,7 +17,7 @@ A TypeScript library for mathematical operations on scalars and vectors with JSO
 To install math-utils-js, use npm:
 
 ```bash
-npm install @gv-sh/math-utils
+npm install @mathscapes/math-utils
 ```
 
 ## Usage
