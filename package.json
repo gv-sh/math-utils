@@ -1,6 +1,5 @@
 {
   "name": "@gv-sh/math-utils",
-  "access": "public",
   "version": "0.1.2",
   "description": "Math utilities for JavaScript",
   "main": "index.js",
