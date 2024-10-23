@@ -14,6 +14,14 @@ describe('Vector operations', () => {
     expect(addVectors([1, 2], [1, 2, 3])).toBeNull();
   });
 
+  test('should multiply two vectors', () => {
+    expect(multiplyVectors([1, 2], [3, 4])).toEqual([3, 8]);
+  });
+
+  test('should return null for vectors of different lengths', () => {
+    expect(multiplyVectors([1, 2], [1, 2, 3])).toBeNull();
+  });
+
   test('should handle division of vectors', () => {
     expect(divideVectors([6, 8], [2, 4])).toEqual([3, 2]);
   });
