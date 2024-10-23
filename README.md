@@ -1,4 +1,4 @@
-# @mathscapes/math-utils
+# @gv-sh/math-utils
 
 A TypeScript library for mathematical operations on scalars and vectors with JSON-LD support.
 
@@ -15,7 +15,7 @@ A TypeScript library for mathematical operations on scalars and vectors with JSO
 To install math-utils-js, use npm:
 
 ```bash
-npm install @mathscapes/math-utils
+npm install @gv-sh/math-utils
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ console.log(parseVector(vectorJson)); // [1, 2, 3]
 You can configure error handling for division operations:
 
 ```typescript
-import { divide, divideVectors } from '@mathscapes/math-utils';
+import { divide, divideVectors } from '@gv-sh/math-utils';
 const config = { strictErrorHandling: true };
 // This will throw an error instead of returning null
 try {
@@ -90,4 +90,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
