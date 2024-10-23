@@ -1,5 +1,7 @@
 # @gv-sh/math-utils
 
+[![Node.js Package](https://github.com/gv-sh/math-utils/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gv-sh/math-utils/actions/workflows/npm-publish.yml)
+
 A TypeScript library for mathematical operations on scalars and vectors with JSON-LD support.
 
 ## Features
