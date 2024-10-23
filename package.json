@@ -1,0 +1,16 @@
+{
+  "name": "@mathscapes/math-utils",
+  "access": "public",
+  "version": "0.1.0",
+  "description": "Math utilities for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
